@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 ```json
 {
@@ -95,26 +95,6 @@ Computer-vision powered waste classification app with gamified sorting habits. S
 </td>
 </tr>
 </table>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rasyyao&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasyyao&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=00ff9c&text_color=c9d1d9" width="35%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasyyao&theme=dark&hide_border=true&background=0f0f0f&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Rasyyao&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasyyao&theme=react-dark&bg_color=0f0f0f&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true" width="90%"/>
-
-</div>
 
 <br/>
 
