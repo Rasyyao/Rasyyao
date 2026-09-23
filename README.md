@@ -62,17 +62,6 @@ Running **IntechCode Enterprise**, a small dev agency juggling four concurrent c
 </td>
 </tr>
 </table>
-
-**AI / ML / Data**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-0f0f0f?style=flat-square&logo=tensorflow&logoColor=00ff9c"/>
-<img src="https://img.shields.io/badge/scikit--learn-0f0f0f?style=flat-square&logo=scikitlearn&logoColor=00ff9c"/>
-<img src="https://img.shields.io/badge/XGBoost-0f0f0f?style=flat-square&logo=xgboost&logoColor=00ff9c"/>
-<img src="https://img.shields.io/badge/LangChain-0f0f0f?style=flat-square&logo=langchain&logoColor=00ff9c"/>
-<img src="https://img.shields.io/badge/FastAPI-0f0f0f?style=flat-square&logo=fastapi&logoColor=00ff9c"/>
-<img src="https://img.shields.io/badge/Supabase-0f0f0f?style=flat-square&logo=supabase&logoColor=00ff9c"/>
-<img src="https://img.shields.io/badge/Redis-0f0f0f?style=flat-square&logo=redis&logoColor=00ff9c"/>
-
 <br/>
 
 ## Projects
